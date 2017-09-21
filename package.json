@@ -1,0 +1,14 @@
+{
+  "name": "vue-hackernews-2.0",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "vue": "^2.4.2",
+    "vuex": "^2.4.0",
+    "vuex-router-sync": "^4.2.0"
+  }
+}
